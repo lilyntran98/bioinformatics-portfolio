@@ -5,7 +5,7 @@ RNA-seq · scRNA-seq · Clinical Genomics · Transcriptomics · Python · R
 
 I'm a second-year MS Bioinformatics student at Northeastern University with a background in bioprocess and viral vector development (ElevateBio, Associate Scientist II). I transitioned from wet lab to computational biology to work at the intersection of data and biology — building reproducible pipelines that turn sequencing data into biological insight.
 
-📍 Boston, MA &nbsp;|&nbsp; 📧 tran.nhi2@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lilyntran)
+📍 Boston, MA &nbsp;|&nbsp; 📧 lilytran3498@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lilyntran)
 
 ---
 
@@ -50,8 +50,8 @@ I'm a second-year MS Bioinformatics student at Northeastern University with a ba
 ## 🎓 Background
 
 - **MS Bioinformatics** — Northeastern University, Boston MA *(2025–present)*
-- **BS Chemical Engineering** — UC Irvine *(2017–2021)*
-- **Associate Scientist II** — ElevateBio *(2021–2024)* · Viral vector & mRNA process development
+- **BS Chemical Engineering** — UC Irvine *(2016–2020)*
+- **Associate Scientist II** — ElevateBio *(2021–2025)* · Viral vector (LVV, AAV) & mRNA process development
 
 ---
 
