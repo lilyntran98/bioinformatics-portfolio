@@ -5,17 +5,18 @@ RNA-seq · scRNA-seq · Clinical Genomics · Transcriptomics · Python · R
 
 I'm a second-year MS Bioinformatics student at Northeastern University with a background in bioprocess and viral vector development (ElevateBio, Associate Scientist II). I transitioned from wet lab to computational biology to work at the intersection of data and biology — building reproducible pipelines that turn sequencing data into biological insight.
 
-📍 Boston, MA &nbsp;|&nbsp; 📧 lilytran3498@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lilyntran)
+📍 Boston, MA &nbsp;|&nbsp; 📧 tran.nhi2@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lilyntran)
 
 ---
 
 ## 🧬 Projects
 
-### 🔬 Clinical Genomics
+### 🏆 Hackathon Projects
 
-| Project | Description | Tools | Status |
+| Project | Description | Tools | Award |
 |---|---|---|---|
-| [**Variant Hunter — Pathogenic Mutation Discovery**](./challenge2-variant-hunter) | End-to-end WGS variant filtering pipeline to identify a de novo pathogenic SCN1A variant (Dravet syndrome) from ~3.2M variants. Includes ACMG scoring, clinical report, and an interactive Shiny variant browser. | VEP · bcftools · Python · R · Shiny | ✅ Complete |
+| [**GBBA BioHack 2026 — Sequence Quality Detective**](./gbba-biohack-2026-cellsquad) | Diagnosed critical quality failures in a real-world E. coli RNA-seq dataset (68–71% duplication). Designed and ran a fastp cleaning pipeline that retained 61% of reads — exceeding the predicted 25–35% retention by >25 percentage points. All 4 samples salvaged and analysis-ready. | FastQC · MultiQC · fastp · SRA Toolkit · HPC | 🥇 Best Presentation · Technical Depth |
+| [**GBBA BioHack 2026 — Variant Hunter**](./challenge2-variant-hunter) | End-to-end WGS variant filtering pipeline identifying a de novo pathogenic SCN1A variant (Dravet syndrome) from ~3.2M variants. Includes 5-step filtering funnel, ACMG scoring engine, clinical report, and an interactive Shiny variant browser. | VEP · bcftools · Python · R · Shiny | — |
 
 ---
 
@@ -50,8 +51,8 @@ I'm a second-year MS Bioinformatics student at Northeastern University with a ba
 ## 🎓 Background
 
 - **MS Bioinformatics** — Northeastern University, Boston MA *(2025–present)*
-- **BS Chemical Engineering** — UC Irvine *(2016–2020)*
-- **Associate Scientist II** — ElevateBio *(2021–2025)* · Viral vector (LVV, AAV) & mRNA process development
+- **BS Chemical Engineering** — UC Irvine *(2017–2021)*
+- **Associate Scientist II** — ElevateBio *(2021–2024)* · Viral vector & mRNA process development
 
 ---
 
