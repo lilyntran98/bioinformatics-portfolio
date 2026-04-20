@@ -1,0 +1,13 @@
+Download completed: Thu Jan 22 08:47:44 PM EST 2026
+Method: ENA FTP download
+Total samples: 4
+Total reads: 22,451,887 read pairs
+
+Sample details:
+- NaHCO3rep1: 5,520,708 reads
+- NaHCO3rep2: 5,184,530 reads
+- NaClrep1:   5,998,161 reads
+- NaClrep2:   5,748,488 reads
+
+Files location: data/raw/
+All files compressed (.fastq.gz format)

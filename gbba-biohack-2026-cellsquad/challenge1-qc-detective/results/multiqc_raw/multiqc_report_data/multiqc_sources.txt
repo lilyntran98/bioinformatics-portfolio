@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	NaClrep1_R1	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaClrep1_R1_fastqc.zip
+FastQC	all_sections	NaClrep1_R2	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaClrep1_R2_fastqc.zip
+FastQC	all_sections	NaClrep2_R1	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaClrep2_R1_fastqc.zip
+FastQC	all_sections	NaClrep2_R2	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaClrep2_R2_fastqc.zip
+FastQC	all_sections	NaHCO3rep1_R1	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaHCO3rep1_R1_fastqc.zip
+FastQC	all_sections	NaHCO3rep1_R2	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaHCO3rep1_R2_fastqc.zip
+FastQC	all_sections	NaHCO3rep2_R1	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaHCO3rep2_R1_fastqc.zip
+FastQC	all_sections	NaHCO3rep2_R2	/home/tran.nhi2/gbba-biohack-2026-cellsquad/challenge1-qc-detective/results/fastqc_raw/NaHCO3rep2_R2_fastqc.zip

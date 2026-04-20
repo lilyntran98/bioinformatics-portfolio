@@ -1,0 +1,7 @@
+/home/tran.nhi2/.conda/envs/qc-tools/lib/python3.14/site-packages/multiqc/utils/config.py:17: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+
+  /// MultiQC 🔍 | v1.14
+
+|           multiqc | MultiQC Version v1.33 now available!
+

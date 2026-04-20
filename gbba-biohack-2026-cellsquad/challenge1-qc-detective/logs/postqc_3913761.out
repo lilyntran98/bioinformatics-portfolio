@@ -1,0 +1,52 @@
+==========================================
+Post-Cleaning QC Batch Job
+==========================================
+Fri Jan 23 02:47:27 PM EST 2026
+
+==========================================
+Running QC on Cleaned Data
+==========================================
+
+Found 8 cleaned FASTQ files to analyze
+
+Running FastQC on cleaned FASTQ files...
+This will take ~5-10 minutes...
+
+Processing NaClrep1_clean_R1.fastq.gz...
+application/gzip
+Processing NaClrep1_clean_R2.fastq.gz...
+application/gzip
+Processing NaClrep2_clean_R1.fastq.gz...
+application/gzip
+Processing NaClrep2_clean_R2.fastq.gz...
+application/gzip
+Processing NaHCO3rep1_clean_R1.fastq.gz...
+application/gzip
+Processing NaHCO3rep1_clean_R2.fastq.gz...
+application/gzip
+Processing NaHCO3rep2_clean_R1.fastq.gz...
+application/gzip
+Processing NaHCO3rep2_clean_R2.fastq.gz...
+application/gzip
+
+✓ FastQC complete!
+
+Running MultiQC to aggregate results...
+
+✓ MultiQC complete!
+
+==========================================
+Post-Cleaning QC Complete!
+==========================================
+
+Results saved to:
+  - Individual reports: results/fastqc_cleaned/
+  - Aggregated report:  results/multiqc_cleaned/multiqc_report.html
+
+Next: Compare before/after
+  bash scripts/05_compare_qc.sh
+
+==========================================
+Post-QC Complete!
+==========================================
+Fri Jan 23 02:51:33 PM EST 2026

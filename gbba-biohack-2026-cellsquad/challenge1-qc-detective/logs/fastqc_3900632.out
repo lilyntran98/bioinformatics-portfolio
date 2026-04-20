@@ -1,0 +1,38 @@
+==========================================
+FastQC Batch Job Started
+==========================================
+Thu Jan 22 09:59:10 PM EST 2026
+
+Running FastQC...
+Processing NaClrep1_R1.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaClrep1_R2.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaClrep2_R1.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaClrep2_R2.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaHCO3rep1_R1.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaHCO3rep1_R2.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaHCO3rep2_R1.fastq.gz...
+application/gzip
+  ✓ Complete
+Processing NaHCO3rep2_R2.fastq.gz...
+application/gzip
+  ✓ Complete
+
+Running MultiQC...
+
+==========================================
+QC Complete!
+==========================================
+Results: results/multiqc_raw/multiqc_report.html
+Thu Jan 22 10:04:28 PM EST 2026

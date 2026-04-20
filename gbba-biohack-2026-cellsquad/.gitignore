@@ -1,0 +1,41 @@
+# Large data files - DO NOT COMMIT
+**/data/raw/*.fastq
+**/data/raw/*.fastq.gz
+**/data/cleaned/*.fastq
+**/data/cleaned/*.fastq.gz
+**/data/reference/*.fna
+**/data/reference/*.fasta
+
+# Keep .gitkeep files
+!**/.gitkeep
+
+# SRA cache
+ncbi/
+sra-cache/
+
+# FastQC results (large files)
+**/results/fastqc_*/*.html
+**/results/fastqc_*/*.zip
+
+# Keep MultiQC reports
+!**/results/multiqc_*/multiqc_report.html
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.RData
+.Rhistory
+
+# Conda
+.conda/
