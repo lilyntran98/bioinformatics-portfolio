@@ -17,6 +17,7 @@ I'm a second-year MS Bioinformatics student at Northeastern University with a ba
 |---|---|---|---|
 | [**GBBA BioHack 2026 — Sequence Quality Detective**](./gbba-biohack-2026-cellsquad) | Diagnosed critical quality failures in a real-world E. coli RNA-seq dataset (68–71% duplication). Designed and ran a fastp cleaning pipeline that retained 61% of reads — exceeding the predicted 25–35% retention by >25 percentage points. All 4 samples salvaged and analysis-ready. | FastQC · MultiQC · fastp · SRA Toolkit · HPC | 🥇 Best Presentation · Technical Depth |
 | [**GBBA BioHack 2026 — Variant Hunter**](./challenge2-variant-hunter) | End-to-end WGS variant filtering pipeline identifying a de novo pathogenic SCN1A variant (Dravet syndrome) from ~3.2M variants. Includes 5-step filtering funnel, ACMG scoring engine, clinical report, and an interactive Shiny variant browser. | VEP · bcftools · Python · R · Shiny | — |
+| [**GBBA BioHack 2026 — Differential Expression Storyteller**](./challenge3-rnaseq-storyteller) | Full RNA-seq DE analysis of tamoxifen-treated MCF-7 breast cancer cells (GSE183947). Identified 1,847 DE genes, ran GO/KEGG/GSEA enrichment (MSigDB Hallmarks), and built STRING protein interaction networks to tell the biological story of drug-induced cell cycle arrest. | DESeq2 · clusterProfiler · GSEA · STRINGdb · R | — |
 
 ---
 
